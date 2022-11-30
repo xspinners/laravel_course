@@ -11,9 +11,11 @@
 ```
 - git clone to local
 - run composer install
+- run php artisan key:generate
 - copy .env.example to .env
-- change parameters in .env (db host, name, user, password)
+- change parameters in .env (db host, name, user, password etc)
 - run php artisan migrate
+- run php artisan serve
 ```
 ## About Laravel
 

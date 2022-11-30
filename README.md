@@ -13,6 +13,7 @@
 - run composer install
 - copy .env.example to .env
 - run php artisan key:generate
+- create your database (e.g mysql)
 - change parameters in .env (db host, name, user, password etc)
 - run php artisan migrate
 - run php artisan serve

@@ -9,11 +9,11 @@
 
 ## HUSM Laravel Course 
 ```
-- git clone to local<br>
-- run composer install<br>
-- copy .env.example to .env<br>
-- change parameters in .env (db host, name, user, password)<br>
-- run php artisan migrate<br>
+- git clone to local
+- run composer install
+- copy .env.example to .env
+- change parameters in .env (db host, name, user, password)
+- run php artisan migrate
 ```
 ## About Laravel
 
